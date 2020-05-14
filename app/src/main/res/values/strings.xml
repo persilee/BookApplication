@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">BookApplication</string>
+    <string name="app_name">书籍</string>
+    <string name="_three">3秒，点击跳过</string>
+    <string name="m_text">秒，点击跳过</string>
+    <string name="book_list_name">书籍列表</string>
 </resources>
